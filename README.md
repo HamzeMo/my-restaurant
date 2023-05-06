@@ -1,5 +1,5 @@
 #     TiTa Fatima Restaurant
-      welcome to our restaurant
+welcome to our restaurant
 ## **Menu**
 | BURGERS   | SEA FOOD |PIZZAS | DRINKS    |
 | :---        |    :----:   |          ---: |          ---: |
