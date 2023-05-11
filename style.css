@@ -1,0 +1,29 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+ 
+.logo2 {
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {
+    background-color: #00ccff;
+    display: flex;
+    justify-content: space-evenly;
+}
+.jnb {
+    background-color: rgb(22, 182, 182);
+
+}
+.sad {
+    background-color: rgba(0, 255, 255, 0.199);
+}
+.jnbs{
+    background-color: #00ccff;
+}
+.wox{
+    background-color: #003399;
+
+}
